@@ -1,5 +1,5 @@
-const jogada1 = "pedra"
-const jogada2 = "tesoura"
+const jogada1 = "pedra";
+const jogada2 = "tesoura";
 
 
 
